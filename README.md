@@ -13,6 +13,6 @@
 - **Anomaly Detection**
 - **Clustering**: K-Means, Gaussian Mixture, DBSCAN, Divisive Clustering
 - **Neural Networks**: FF, Deep, optimizers, regularizations, batching
-- **Recurrent NN**, LSTM**, Attention**, Transformers**
+- **Recurrent NN**, **LSTM**, **Attention**, **Transformers**
 
 Feel free to propose corrections, especially on the mathematical parts!
